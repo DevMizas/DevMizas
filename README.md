@@ -53,6 +53,6 @@ Tenho forte foco em arquitetura limpa, código escalável e experiências de usu
 
 ## 🔗 Contato
 
-- LinkedIn: [https://www.linkedin.com/in/seu-link ](https://www.linkedin.com/in/mizael-santos-709aa41a4/)
-- GitHub Corporativo: [https://github.com/seu-link ](https://github.com/mizael-santos-brisa?tab=overview&from=2025-12-01&to=2025-12-31)
+- LinkedIn: [https://www.linkedin.com/in/mizael-santos-709aa41a4/](https://www.linkedin.com/in/mizael-santos-709aa41a4/)
+- GitHub Corporativo: [https://github.com/mizael-santos-brisa?tab=overview&from=2025-12-01&to=2025-12-31](https://github.com/mizael-santos-brisa?tab=overview&from=2025-12-01&to=2025-12-31)
 - Email: dev.mizas@gmail.com
