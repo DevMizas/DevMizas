@@ -9,12 +9,13 @@ Tenho forte foco em arquitetura limpa, código escalável e experiências de usu
 
 ## 🚀 Tecnologias
 
-- Flutter / Dart  
+- Flutter / Dart / Kotlin / Swift
 - Firebase (Auth, Firestore)  
 - MVVM, BLoC, MobX  
 - Clean Architecture / SOLID  
 - Git / GitHub  
 - REST APIs
+- SAP integrations
 
 ---
 
@@ -22,7 +23,7 @@ Tenho forte foco em arquitetura limpa, código escalável e experiências de usu
 
 - 🥇 Campeão ICPC South America – Brazil First Phase
 - 📱 Experiência profissional com apps em produção  
-- 🌐 Projeto NAU desenvolvido em Flutter Web  
+- 🌐 Projeto NAU e Brisacliente Web desenvolvidos em Flutter Web
 - 🧠 Forte base em algoritmos e estruturas de dados  
 
 ---
