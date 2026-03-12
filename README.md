@@ -20,7 +20,7 @@ Tenho forte foco em arquitetura limpa, código escalável e experiências de usu
 
 ## 🏆 Destaques
 
-- 🥇 Campeão ICPC South America – Brazil First Phase  
+- 🥇 Campeão ICPC South America – Brazil First Phase - Regional Phase
 - 📱 Experiência profissional com apps em produção  
 - 🌐 Projeto NAU desenvolvido em Flutter Web  
 - 🧠 Forte base em algoritmos e estruturas de dados  
